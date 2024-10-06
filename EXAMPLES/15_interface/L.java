@@ -1,0 +1,5 @@
+interface L{
+	void pro(){
+		
+	}
+}

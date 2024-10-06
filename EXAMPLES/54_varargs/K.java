@@ -1,0 +1,3 @@
+class K{
+	int... y;
+}

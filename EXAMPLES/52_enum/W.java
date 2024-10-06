@@ -1,0 +1,5 @@
+enum W{
+	enum X{
+	
+	}
+}

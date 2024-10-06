@@ -1,0 +1,4 @@
+
+abstract interface N{
+
+}

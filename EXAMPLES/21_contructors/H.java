@@ -1,0 +1,5 @@
+class H{
+	final H(){
+	
+	}
+}
